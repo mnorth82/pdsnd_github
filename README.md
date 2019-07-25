@@ -1,15 +1,19 @@
 ### Date created
-Include the date you created this project and README file.
+7/25/2019
 
 ### Project Title
-Replace the Project Title
+Bikeshare Project
 
 ### Description
-Describe what your project is about and what it does
+The project is to teach how to use git and a remote repository in github.
 
 ### Files used
-Include the files used
+bikeshare.py
+chicago.csv
+new_york_city.csv
+washington.csv
+readme.txt
+README.md
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+None as of now

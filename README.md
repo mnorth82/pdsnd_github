@@ -16,4 +16,4 @@ readme.txt
 README.md
 
 ### Credits
-None as of now
+No credits as of now other than the udacity course.
